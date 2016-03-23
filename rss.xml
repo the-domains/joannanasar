@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[joannanasar]]></title>
-        <description><![CDATA[joannanasar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Joanna Nasar - Storyteller]]></title>
+        <description><![CDATA[Joanna Nasar - Storyteller]]></description>
+        <link>https://thegrid.ai/joannanasar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 01:18:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 01:47:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/joannanasar/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>Joanna Nasarnasarjoanna@gmail.com415.488.7711@JoJots</p></article>]]></description>
+            <link>https://thegrid.ai/joannanasar/contact/index.html</link>
+            <guid isPermaLink="false">b01e14d5-4294-4602-babe-4ed2773eeaa9</guid>
+            <pubDate>Wed, 23 Mar 2016 01:47:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Meet Joanna Nasar]]></title>
             <description><![CDATA[<article><h1>Meet Joanna Nasar</h1><p>Joanna Nasar is a thoughtful storyteller.</p></article>]]></description>
-            <link>undefinedmeet-joanna-nasar/index.html</link>
+            <link>https://thegrid.ai/joannanasar/meet-joanna-nasar/index.html</link>
             <guid isPermaLink="false">c2533f4a-6b0a-4d50-9084-2e23989fb753</guid>
             <pubDate>Wed, 23 Mar 2016 01:18:33 GMT</pubDate>
         </item>
