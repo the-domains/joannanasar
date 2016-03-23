@@ -8,8 +8,8 @@ keywords: []
 description: >
   California Driftnet Fishery: The True Costs of a 20th Century Fishery in the
   21st Century. Editor/Project Manager. Click to read (.pdf).
-datePublished: '2016-03-23T02:18:26.658Z'
-dateModified: '2016-03-23T02:17:19.709Z'
+datePublished: '2016-03-23T02:20:08.165Z'
+dateModified: '2016-03-23T02:18:55.273Z'
 title: 'Publications and Reports '
 author: []
 sourcePath: _posts/2016-03-23-publications-and-reports.md
